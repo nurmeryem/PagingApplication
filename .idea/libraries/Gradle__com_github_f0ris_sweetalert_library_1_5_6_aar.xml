@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.f0ris.sweetalert:library:1.5.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Projeler/androidProjeler/.gradle/4.6/caches/transforms-3/a3768f6910d1b3b42800f52ae6b740d0/transformed/jetified-library-1.5.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Projeler/androidProjeler/.gradle/4.6/caches/transforms-3/a3768f6910d1b3b42800f52ae6b740d0/transformed/jetified-library-1.5.6/res" />
+      <root url="file://$USER_HOME$/Desktop/Projeler/androidProjeler/.gradle/4.6/caches/transforms-3/a3768f6910d1b3b42800f52ae6b740d0/transformed/jetified-library-1.5.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/Projeler/androidProjeler/.gradle/4.6/caches/modules-2/files-2.1/com.github.f0ris.sweetalert/library/1.5.6/6ee8e524b6c37242f3d2c525a917b762f73cda0e/library-1.5.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Projeler/androidProjeler/.gradle/4.6/caches/modules-2/files-2.1/com.github.f0ris.sweetalert/library/1.5.6/d1aa64c60c56f738592e1844921819b00ab6cc27/library-1.5.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
